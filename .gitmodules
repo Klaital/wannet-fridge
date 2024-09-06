@@ -1,0 +1,9 @@
+[submodule "lib/arduino-influxdb-client"]
+	path = lib/arduino-influxdb-client
+	url = git@github.com:Klaital/arduino-influxdb-client.git
+[submodule "lib/barebones-http"]
+	path = lib/barebones-http
+	url = git@github.com:Klaital/barebones-http.git
+[submodule "lib/ArduinoHttp"]
+	path = lib/ArduinoHttp
+	url = git@github.com:Klaital/ArduinoHttp.git
